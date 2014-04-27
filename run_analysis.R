@@ -1,6 +1,6 @@
 #Set your own directory with the data
 
-setwd("C:/Users/khersham/Downloads/UCI HAR Dataset/")
+setwd()
 library(reshape2)
 
 #Load all the relevant data to 4 sets (xTrain, xTest, yTrain, yTest), feature label (flabel) and activity label (actlabel)
